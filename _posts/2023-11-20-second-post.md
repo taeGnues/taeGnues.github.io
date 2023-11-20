@@ -4,7 +4,6 @@ date: 2023-11-20 23:30:00 -0400
 categories: intro update
 ---
 # 안녕하세요, 정태승 입니다👋
-<img src="https://github.com/taeGnues/taeGnues.github.io/assets/112752089/c02f4922-4c8f-4a00-8ae3-70005a103bef" width="300"/>
 
 
 > **만듦**의 즐거움을 아는 **개발자**가 되고 싶은, **정태승** 입니다.
